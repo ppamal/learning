@@ -1,0 +1,15 @@
+// if we want to design a graphic, eg:like a moving object,we need to be familiar with the concept of objects and classes in js.
+i want to make it work like an object with functionalities.
+
+in that case we can say 
+cat.eat()
+car.move()
+where cat is an object
+
+class is a template or a blueprint
+
+its like a `bubble` where we can encapsulate data and the methods 
+
+`new` is the keyword to create an object from the class
+
+In JavaScript, constructor functions are conventionally capitalized to indicate that they should be used with the new keyword to create objects.
